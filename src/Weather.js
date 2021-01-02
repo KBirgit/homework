@@ -10,6 +10,7 @@ export default function Weather() {
           <div className="row"></div>
           <div className="row">
             <div className="col-8">
+                <Temperature />
               <div className="col p-0">
                 <City />
               </div>
