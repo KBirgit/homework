@@ -1,0 +1,14 @@
+.Temperature h1 {
+    font-size: 60px;
+    font-weight: 560;
+    color: #666666;
+  }
+  .Temperature img {
+    width: 140px;
+    vertical-align: bottom;
+  }
+  .units {
+    font-size: 22px;
+    font-weight: 600;
+  }
+  
